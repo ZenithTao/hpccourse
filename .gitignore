@@ -1,2 +1,5 @@
-
+*.docx
+*.doc
 *.out
+*.pptx
+*.ppt
